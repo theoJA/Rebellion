@@ -13,7 +13,7 @@ The code is very bloated at the moment (redundant blocks of code here and there,
 
 --- 
 
-# Running the game
+### Running the game
 
 If you don't have Python 3 on your machine I recommend downloading [Anaconda here.](https://www.continuum.io/downloads) Anaconda will install the Python interpreter, all the necessary packages as well as automatically adding Python to the PATH environment. 
 
@@ -24,4 +24,5 @@ After that, just:
 3. `python Reb_Main.py`
 
 
-### Enjoy !
+
+### Enjoy!
