@@ -7,7 +7,7 @@ You can play either as:
   - The Nobles: 1 King and 2 Queens
   - The Rebels: 2 Rooks, 2 Bishops and 2 Knights   
 
-The code is very bloated at the moment (redundant blocks of code here and there, lack of refactoring) The heuristics aren't perfect as well resulting in a not so challenging AI. All this will hopefully be improved in future iterations of the game.
+The code is very bloated at the moment (redundant blocks of code here and there, lack of refactoring). The heuristics aren't perfect as well resulting in a not so challenging AI. All this will hopefully be improved in future iterations of the game.
 
 --- 
 
