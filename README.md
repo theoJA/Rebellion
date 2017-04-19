@@ -7,8 +7,6 @@ You can play either as:
   - The Nobles: 1 King, 2 Queens or
   - The Rebels: 2 Rooks, 2 Bishops and 2 Knights   
 
----
-
 The code is very bloated at the moment (redundant blocks of code here and there, lack of refactoring) The heuristics aren't perfect as well resulting in a not so challenging AI. All this will hopefully be improved in future iterations of the game.
 
 --- 
@@ -22,7 +20,3 @@ After that, just:
 1. Clone the project
 2. cd to project directory  
 3. `python Reb_Main.py`
-
-
-
-### Enjoy!
