@@ -9,6 +9,12 @@ You can play either as:
 
 The code is very bloated at the moment (redundant blocks of code here and there, lack of refactoring). The heuristics aren't perfect as well resulting in a not so challenging AI. All this will hopefully be improved in future iterations of the game.
 
+Here are some screenshots of the game:
+
+[Image 1](https://user-images.githubusercontent.com/26525967/30723535-fc60be6a-9f05-11e7-86b2-5ffebc3bb276.PNG)
+
+[Image 2](https://user-images.githubusercontent.com/26525967/30723537-fc93341c-9f05-11e7-9e99-8c36b0777ebe.PNG)
+
 --- 
 
 ### Running the game
