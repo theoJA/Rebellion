@@ -1,6 +1,6 @@
 # Rebellion
 
-A text-based, human VS computer chess variant written in Python 3. The computer player's moves are generated using Minimax with Alpha-Beta Pruning.
+A text-based, human VS computer chess variant written in Python 3. The computer player's moves are generated using Minimax with Alpha-Beta Pruning algorithm.
 
 You can play either as:
 
